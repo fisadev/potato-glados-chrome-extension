@@ -1,0 +1,1 @@
+This extension doesn't access or use any kind of private information, and never will, as there's absolutely no reason to do so in order to function.
